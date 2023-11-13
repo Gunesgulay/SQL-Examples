@@ -1,5 +1,7 @@
 # SQL-examples
-SQL examples and solutions.The queries were written using PostgreSQL.
+SQL examples and solutions.
+The Northwind database was used.
+The queries were written using PostgreSQL.
 Questions:
 1. Product isimlerini (`ProductName`) ve birim başına miktar (`QuantityPerUnit`) değerlerini almak için sorgu yazın.
 2. Ürün Numaralarını (`ProductID`) ve Product isimlerini (`ProductName`) değerlerini almak için sorgu yazın. Artık satılmayan ürünleri (`Discontinued`) filtreleyiniz.
