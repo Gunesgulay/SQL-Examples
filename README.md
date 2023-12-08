@@ -74,3 +74,43 @@ Questions:
 69. Ürünlerimi en pahalıdan en ucuza doğru sıralasın, ama stoklarını küçükten-büyüğe doğru göstersin sonuç olarak ürün adı ve fiyatını istiyoruz
 70. 1 Numaralı kategoride kaç ürün vardır?
 71. Kaç farklı ülkeye ihracat yapıyorum?
+72. Kaç farklı ülkeye ihracat yapıyorum? Bu ülkeler hangileri?
+73. En Pahalı 5 ürün?
+74. ALFKI CustomerID’sine sahip müşterimin sipariş sayısı..?
+75. Ürünlerimin toplam maliyeti?
+76. Şirketim, şimdiye kadar ne kadar ciro yapmış..?
+77. Ortalama Ürün Fiyatım?
+78. En Pahalı Ürünün Adı?
+79. En az kazandıran sipariş?
+80. Müşterilerimin içinde en uzun isimli müşteri?
+81. Çalışanlarımın Ad, Soyad ve Yaşları?
+82. Hangi üründen toplam kaç adet alınmış.?
+83. Hangi siparişte toplam ne kadar kazanmışım..?
+84. Hangi kategoride toplam kaç adet ürün bulunuyor..?
+85. 1000 Adetten fazla satılan ürünler?
+86. Hangi Müşterilerim hiç sipariş vermemiş..?
+87. Hangi tedarikçi hangi ürünü sağlıyor ?
+88. Hangi sipariş hangi kargo şirketi ile ne zaman gönderilmiş..?
+89. Hangi siparişi hangi müşteri verir..?
+90. Hangi çalışan, toplam kaç sipariş almış..?
+91. En fazla siparişi kim almış..?
+92. Hangi siparişi, hangi çalışan, hangi müşteri vermiştir..?
+93. Hangi ürün, hangi kategoride bulunmaktadır..? Bu ürünü kim tedarik etmektedir..?
+94. Hangi siparişi hangi müşteri vermiş, hangi çalışan almış, hangi tarihte, hangi kargo şirketi ?tarafından gönderilmiş hangi üründen kaç adet alınmış, hangi fiyattan alınmış, ürün hangi ?kategorideymiş bu ürünü hangi tedarikçi sağlamış?
+95. Altında ürün bulunmayan kategoriler?
+96. Manager ünvanına sahip tüm müşterileri listeleyiniz.
+97. FR ile başlayan 5 karekter olan tüm müşterileri listeleyiniz.
+98. (171) alan kodlu telefon numarasına sahip müşterileri listeleyiniz.
+99. BirimdekiMiktar alanında boxes geçen tüm ürünleri listeleyiniz.
+100. Fransa ve Almanyadaki (France,Germany) Müdürlerin (Manager) Adını ve Telefonunu listeleyiniz.(MusteriAdi,Telefon)
+101. En yüksek birim fiyata sahip 10 ürünü listeleyiniz.
+102. Müşterileri ülke ve şehir bilgisine göre sıralayıp listeleyiniz.
+103. Personellerin ad,soyad ve yaş bilgilerini listeleyiniz.
+104. 35 gün içinde sevk edilmeyen satışları listeleyiniz.
+105. Birim fiyatı en yüksek olan ürünün kategori adını listeleyiniz. (Alt Sorgu)
+106. Kategori adında 'on' geçen kategorilerin ürünlerini listeleyiniz. (Alt Sorgu)
+107. Konbu adlı üründen kaç adet satılmıştır.
+108. Japonyadan kaç farklı ürün tedarik edilmektedir.
+109. 1997 yılında yapılmış satışların en yüksek, en düşük ve ortalama nakliye ücretlisi ne kadardır?
+110. Faks numarası olan tüm müşterileri listeleyiniz.
+111. 1996-07-16 ile 1996-07-30 arasında sevk edilen satışları listeleyiniz. 
